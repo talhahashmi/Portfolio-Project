@@ -150,20 +150,7 @@ div {
     display: block;
 }
 
-.skill-heading span {
-    color: var(--main-bg-color);
-    font-weight: 500;
-    text-transform: uppercase;
-    font-size: 15px;
-    letter-spacing: 1px;
-}
-.skill-heading h2 {
-    color: var(--dark-gray-color);
-    font-size: 45px;
-    margin: 0px;
-    font-weight: 600;
-    letter-spacing: 1px;
-}
+
 
 h2 {
     display: block;
@@ -213,7 +200,7 @@ h2 {
     width: 50%;
 
 }
-#client {
+#clients {
     display: flex;
     justify-content: center;
     align-items: center;
